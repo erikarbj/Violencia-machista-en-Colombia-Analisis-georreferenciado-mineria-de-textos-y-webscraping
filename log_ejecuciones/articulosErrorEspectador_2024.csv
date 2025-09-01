@@ -1,0 +1,48 @@
+Errores
+No content: https://web.archive.org/web/20241129230751/https://www.elespectador.com/genero-y-diversidad/las-igualadas/745-nombres-para-no-olvidar-estas-son-las-victimas-de-feminicidio-en-colombia/
+"Error loading: https://web.archive.org/web/20241126234000/https://www.elespectador.com/judicial/la-violencia-sexual-es-una-forma-de-desarticular-a-la-comunidad-denis-mukwege-desarrollo/ - Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF647EA4C25+3179557]
+	(No symbol) [0x00007FF647B088A0]
+	(No symbol) [0x00007FF6479991CA]
+	(No symbol) [0x00007FF64798664C]
+	(No symbol) [0x00007FF64798633A]
+	(No symbol) [0x00007FF64798518E]
+	(No symbol) [0x00007FF6479A91A1]
+	(No symbol) [0x00007FF647A40667]
+	(No symbol) [0x00007FF647A17A03]
+	(No symbol) [0x00007FF6479E06D0]
+	(No symbol) [0x00007FF6479E1983]
+	GetHandleVerifier [0x00007FF647F067CD+3579853]
+	GetHandleVerifier [0x00007FF647F1D1D2+3672530]
+	GetHandleVerifier [0x00007FF647F12153+3627347]
+	GetHandleVerifier [0x00007FF647C7092A+868650]
+	(No symbol) [0x00007FF647B12FFF]
+	(No symbol) [0x00007FF647B0F4A4]
+	(No symbol) [0x00007FF647B0F646]
+	(No symbol) [0x00007FF647AFEAA9]
+	BaseThreadInitThunk [0x00007FFB581CE8D7+23]
+	RtlUserThreadStart [0x00007FFB597B14FC+44]
+"
+"Error loading: https://web.archive.org/web/20241220234436/https://www.elespectador.com/educacion/jueves-de-freud-nueva-denuncia-de-abuso-sexual-en-la-universidad-nacional-como-garantizar-un-campus-seguro/ - Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF647EA4C25+3179557]
+	(No symbol) [0x00007FF647B088A0]
+	(No symbol) [0x00007FF647998FFC]
+	(No symbol) [0x00007FF6479DF8DF]
+	(No symbol) [0x00007FF647A17AF2]
+	(No symbol) [0x00007FF647A1244E]
+	(No symbol) [0x00007FF647A114F9]
+	(No symbol) [0x00007FF6479655E5]
+	GetHandleVerifier [0x00007FF647F067CD+3579853]
+	GetHandleVerifier [0x00007FF647F1D1D2+3672530]
+	GetHandleVerifier [0x00007FF647F12153+3627347]
+	GetHandleVerifier [0x00007FF647C7092A+868650]
+	(No symbol) [0x00007FF647B12FFF]
+	(No symbol) [0x00007FF6479641FF]
+	GetHandleVerifier [0x00007FF647F8FA28+4141608]
+	BaseThreadInitThunk [0x00007FFB581CE8D7+23]
+	RtlUserThreadStart [0x00007FFB597B14FC+44]
+"

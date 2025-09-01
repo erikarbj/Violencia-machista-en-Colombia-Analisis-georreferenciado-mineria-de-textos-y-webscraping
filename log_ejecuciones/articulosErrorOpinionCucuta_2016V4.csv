@@ -1,0 +1,33 @@
+Errores
+"Error loading: https://web.archive.org/web/20240717103742/https://www.laopinion.co/judicial/feminicidio-en-cucuta-hombre-mato-su-esposa-y-luego-se-quito-la-vida - Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E1084C25+3179557]
+	(No symbol) [0x00007FF7E0CE88A0]
+	(No symbol) [0x00007FF7E0B791CA]
+	(No symbol) [0x00007FF7E0B75B57]
+	(No symbol) [0x00007FF7E0B668E9]
+	(No symbol) [0x00007FF7E0B68658]
+	(No symbol) [0x00007FF7E0B66BF6]
+	(No symbol) [0x00007FF7E0B66676]
+	(No symbol) [0x00007FF7E0B6633A]
+	(No symbol) [0x00007FF7E0B63EC2]
+	(No symbol) [0x00007FF7E0B647AC]
+	(No symbol) [0x00007FF7E0B7D01A]
+	(No symbol) [0x00007FF7E0C211AE]
+	(No symbol) [0x00007FF7E0BF7C2A]
+	(No symbol) [0x00007FF7E0C202F3]
+	(No symbol) [0x00007FF7E0BF7A03]
+	(No symbol) [0x00007FF7E0BC06D0]
+	(No symbol) [0x00007FF7E0BC1983]
+	GetHandleVerifier [0x00007FF7E10E67CD+3579853]
+	GetHandleVerifier [0x00007FF7E10FD1D2+3672530]
+	GetHandleVerifier [0x00007FF7E10F2153+3627347]
+	GetHandleVerifier [0x00007FF7E0E5092A+868650]
+	(No symbol) [0x00007FF7E0CF2FFF]
+	(No symbol) [0x00007FF7E0CEF4A4]
+	(No symbol) [0x00007FF7E0CEF646]
+	(No symbol) [0x00007FF7E0CDEAA9]
+	BaseThreadInitThunk [0x00007FFFA8C8E8D7+23]
+	RtlUserThreadStart [0x00007FFFA94714FC+44]
+"

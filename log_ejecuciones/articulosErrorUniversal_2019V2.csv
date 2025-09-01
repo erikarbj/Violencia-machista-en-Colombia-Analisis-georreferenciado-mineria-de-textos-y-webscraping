@@ -1,0 +1,33 @@
+Errores
+"Error loading: https://web.archive.org/web/20190401143611/https://www.eluniversal.com.co/sucesos/la-frontera-entre-el-asesinato-de-una-mujer-y-el-feminicidio-YH977706 - Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF742314C25+3179557]
+	(No symbol) [0x00007FF741F788A0]
+	(No symbol) [0x00007FF741E091CA]
+	(No symbol) [0x00007FF741E05B57]
+	(No symbol) [0x00007FF741DF68E9]
+	(No symbol) [0x00007FF741DF8658]
+	(No symbol) [0x00007FF741DF6BF6]
+	(No symbol) [0x00007FF741DF6676]
+	(No symbol) [0x00007FF741DF633A]
+	(No symbol) [0x00007FF741DF3EC2]
+	(No symbol) [0x00007FF741DF47AC]
+	(No symbol) [0x00007FF741E0D01A]
+	(No symbol) [0x00007FF741EB11AE]
+	(No symbol) [0x00007FF741E87C2A]
+	(No symbol) [0x00007FF741EB02F3]
+	(No symbol) [0x00007FF741E87A03]
+	(No symbol) [0x00007FF741E506D0]
+	(No symbol) [0x00007FF741E51983]
+	GetHandleVerifier [0x00007FF7423767CD+3579853]
+	GetHandleVerifier [0x00007FF74238D1D2+3672530]
+	GetHandleVerifier [0x00007FF742382153+3627347]
+	GetHandleVerifier [0x00007FF7420E092A+868650]
+	(No symbol) [0x00007FF741F82FFF]
+	(No symbol) [0x00007FF741F7F4A4]
+	(No symbol) [0x00007FF741F7F646]
+	(No symbol) [0x00007FF741F6EAA9]
+	BaseThreadInitThunk [0x00007FFB581CE8D7+23]
+	RtlUserThreadStart [0x00007FFB597B14FC+44]
+"

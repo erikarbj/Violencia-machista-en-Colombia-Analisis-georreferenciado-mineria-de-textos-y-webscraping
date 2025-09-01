@@ -1,0 +1,133 @@
+[
+    {
+        "tituloarticulo": "Hrm.",
+        "tokenizaciontitulo": [
+            "Hrm"
+        ],
+        "fechaarticulo": "2016-01-13",
+        "fechaestimada": "2016-01-13"
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-01-18",
+        "fechaestimada": "2016-01-18",
+        "personas_involucradas": [
+            "José Gerardo Acevedo Ossa",
+            "Adolescencia",
+            "Bello"
+        ]
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-01-30",
+        "fechaestimada": "2016-01-30",
+        "delitos_relacionados": [
+            "terrorismo",
+            "secuestro"
+        ],
+        "personas_involucradas": [
+            "Rubén Darío Barrientos",
+            "Mauricio Cárdenas",
+            "Alejandro Gaviria",
+            "Salud y Hacienda",
+            "Daniel Coronell",
+            "Iván Cepeda",
+            "Helenita"
+        ]
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-02-13",
+        "fechaestimada": "2016-02-13",
+        "pais": "Colombia",
+        "departamento": "Antioquia",
+        "municipio": "Sin especificar",
+        "personas_involucradas": [
+            "Lina Patricia Rodríguez",
+            "Gloria Luz Gómez",
+            "Erika Rodríguez",
+            "Yolanda Puyana",
+            "Ángela Robledo",
+            "Dijín",
+            "Icbf"
+        ]
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-02-22",
+        "fechaestimada": "2016-02-22",
+        "personas_involucradas": [
+            "Krysten Ritter",
+            "Jessica Jones",
+            "Juaaaaaa"
+        ]
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-02-22",
+        "fechaestimada": "2016-02-22",
+        "personas_involucradas": [
+            "Krysten Ritter",
+            "Jessica Jones",
+            "Juaaaaaa"
+        ]
+    },
+    {
+        "tituloarticulo": "¡NO MÁS VIOLENCIA CONTRA LA MUJER! ¡NI CONTRA NADIE!",
+        "tokenizaciontitulo": [
+            "VIOLENCIA",
+            "MUJER"
+        ],
+        "fechaarticulo": "2016-03-03",
+        "fechaestimada": "2016-03-03"
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-03-13",
+        "fechaestimada": "2016-03-13",
+        "pais": "Colombia",
+        "departamento": "Antioquia",
+        "municipio": "Medellín",
+        "personas_involucradas": [
+            "Sandra Cardona",
+            "Quería",
+            "Pude"
+        ]
+    },
+    {
+        "tituloarticulo": "NONE",
+        "tokenizaciontitulo": [
+            "NONE"
+        ],
+        "fechaarticulo": "2016-03-25",
+        "fechaestimada": "2016-03-25",
+        "delitos_relacionados": [
+            "feminicidio"
+        ],
+        "pais": "Colombia",
+        "personas_involucradas": [
+            "Rosa Elvira Celis",
+            "Marina Menegazzo",
+            "María José Coni",
+            "Mayra Rodríguez"
+        ]
+    }
+]

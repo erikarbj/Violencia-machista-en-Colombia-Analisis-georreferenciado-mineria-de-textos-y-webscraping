@@ -1,0 +1,66 @@
+Errores
+"Error loading: https://web.archive.org/web/20250101133946/https://www.eluniversal.com.co/sucesos/2024/12/31/los-cinco-casos-mas-impactantes-de-cartagena-y-bolivar-en-2024/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250106235120/https://www.eluniversal.com.co/farandula/2025/01/06/por-que-ruben-blades-demando-a-vox-partido-politico-espanol/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250112235145/https://www.eluniversal.com.co/colombia/2025/01/10/colombia-no-reconoce-los-resultados-electorales-en-venezuela-cancilleria/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250129235102/https://www.eluniversal.com.co/farandula/2025/01/29/4-anos-de-prision-y-multa-para-el-cantante-vallenato-nelson-velasquez/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250503234633/https://www.eluniversal.com.co/multimedia/2025/02/22/la-estrella-de-la-muerte-el-sitio-que-pocos-se-atreven-a-visitar-en-colombia/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250413234211/https://www.eluniversal.com.co/sucesos/2025/04/13/alba-luz-la-mujer-hallada-muerta-al-lado-de-su-moto-fue-un-accidente/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250422235940/https://www.eluniversal.com.co/colombia/2025/04/22/petro-se-opero-sin-avisar-al-congreso-violacion-a-la-constitucion/ - HTTPConnectionPool(host='localhost', port=52355): Read timed out. (read timeout=120)"
+"Error loading: https://web.archive.org/web/20250422235940/https://www.eluniversal.com.co/regional/atlantico/2025/04/22/por-ola-de-feminicidios-en-el-atlantico-convocan-consejo-de-seguridad/ - Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF65AD5CF25+75717]
+	GetHandleVerifier [0x00007FF65AD5CF80+75808]
+	(No symbol) [0x00007FF65AB28DCC]
+	(No symbol) [0x00007FF65AB6FFF6]
+	(No symbol) [0x00007FF65AB711B3]
+	GetHandleVerifier [0x00007FF65B05D6FD+3223453]
+	GetHandleVerifier [0x00007FF65B057CA2+3200322]
+	GetHandleVerifier [0x00007FF65B075AD3+3322739]
+	GetHandleVerifier [0x00007FF65AD769FA+180890]
+	GetHandleVerifier [0x00007FF65AD7E0FF+211359]
+	GetHandleVerifier [0x00007FF65AD65274+109332]
+	GetHandleVerifier [0x00007FF65AD65422+109762]
+	GetHandleVerifier [0x00007FF65AD4BA39+4825]
+	BaseThreadInitThunk [0x00007FFBAFB2E8D7+23]
+	RtlUserThreadStart [0x00007FFBB1C714FC+44]
+"
+"Error loading: https://web.archive.org/web/20250424231541/https://www.eluniversal.com.co/sucesos/2025/04/23/hombre-intento-matar-a-su-pareja-en-bayunca-la-mujer-se-salvo-de-milagro/ - Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF65AD5CF25+75717]
+	GetHandleVerifier [0x00007FF65AD5CF80+75808]
+	(No symbol) [0x00007FF65AB28DCC]
+	(No symbol) [0x00007FF65AB6F54F]
+	(No symbol) [0x00007FF65ABA7242]
+	(No symbol) [0x00007FF65ABA1C63]
+	(No symbol) [0x00007FF65ABA0D29]
+	(No symbol) [0x00007FF65AAF5A55]
+	GetHandleVerifier [0x00007FF65B05D6FD+3223453]
+	GetHandleVerifier [0x00007FF65B057CA2+3200322]
+	GetHandleVerifier [0x00007FF65B075AD3+3322739]
+	GetHandleVerifier [0x00007FF65AD769FA+180890]
+	GetHandleVerifier [0x00007FF65AD7E0FF+211359]
+	(No symbol) [0x00007FF65AAF4AC8]
+	GetHandleVerifier [0x00007FF65B146FA8+4180040]
+	BaseThreadInitThunk [0x00007FFBAFB2E8D7+23]
+	RtlUserThreadStart [0x00007FFBB1C714FC+44]
+"
+"Error loading: https://web.archive.org/web/20250503234633/https://www.eluniversal.com.co/sucesos/2025/05/02/58-anos-de-carcel-para-brayan-campo-por-feminicidio-de-sofia-delgado/ - Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF65AD5CF25+75717]
+	GetHandleVerifier [0x00007FF65AD5CF80+75808]
+	(No symbol) [0x00007FF65AB28DCC]
+	(No symbol) [0x00007FF65AB6F54F]
+	(No symbol) [0x00007FF65ABA7242]
+	(No symbol) [0x00007FF65ABA1C63]
+	(No symbol) [0x00007FF65ABA0D29]
+	(No symbol) [0x00007FF65AAF5A55]
+	GetHandleVerifier [0x00007FF65B05D6FD+3223453]
+	GetHandleVerifier [0x00007FF65B057CA2+3200322]
+	GetHandleVerifier [0x00007FF65B075AD3+3322739]
+	GetHandleVerifier [0x00007FF65AD769FA+180890]
+	GetHandleVerifier [0x00007FF65AD7E0FF+211359]
+	(No symbol) [0x00007FF65AAF4AC8]
+	GetHandleVerifier [0x00007FF65B146FA8+4180040]
+	BaseThreadInitThunk [0x00007FFBAFB2E8D7+23]
+	RtlUserThreadStart [0x00007FFBB1C714FC+44]
+"
